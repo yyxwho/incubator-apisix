@@ -65,6 +65,8 @@ loaded plugin and sort by priority: 2555 name: wolf-rbac
 loaded plugin and sort by priority: 2520 name: basic-auth
 loaded plugin and sort by priority: 2510 name: jwt-auth
 loaded plugin and sort by priority: 2500 name: key-auth
+loaded plugin and sort by priority: 2400 name: consumer-restriction
+loaded plugin and sort by priority: 2000 name: authz-keycloak
 loaded plugin and sort by priority: 1010 name: proxy-mirror
 loaded plugin and sort by priority: 1009 name: proxy-cache
 loaded plugin and sort by priority: 1008 name: proxy-rewrite
@@ -76,6 +78,7 @@ loaded plugin and sort by priority: 900 name: redirect
 loaded plugin and sort by priority: 899 name: response-rewrite
 loaded plugin and sort by priority: 506 name: grpc-transcode
 loaded plugin and sort by priority: 500 name: prometheus
+loaded plugin and sort by priority: 412 name: echo
 loaded plugin and sort by priority: 410 name: http-logger
 loaded plugin and sort by priority: 405 name: tcp-logger
 loaded plugin and sort by priority: 403 name: kafka-logger
